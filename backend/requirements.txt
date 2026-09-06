@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+httpx
+beautifulsoup4
+pydantic
+pydantic-settings
+apscheduler
+PyGithub
+python-dotenv
+SQLAlchemy
+aiosqlite
+pytrends
+pandas
+lxml
